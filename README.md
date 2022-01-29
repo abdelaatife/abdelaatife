@@ -39,7 +39,7 @@
 
 ---
  <img align="left" alt="abdelaatife's GitHub Stats" src="https://github-readme-stats.abdelaatife.vercel.app/api?username=abdelaatife&show_icons=true&hide_border=true" />
-# Blog posts
+<!--# Blog posts-->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
