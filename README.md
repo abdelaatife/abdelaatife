@@ -8,8 +8,8 @@
 ## I'm a Student and  Developer!!
 
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning everything 🤣 
+- 👯 I’m looking to collaborate with other developer
 - 🥅 2020 Goals: learn more about Flutter
 - ⚡  I am core team member in Google developer students club
 
