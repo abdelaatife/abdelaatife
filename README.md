@@ -3,7 +3,16 @@
 ### Hi there, I'm abdellatif  👋 
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/ben_Abdellatife?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ben_Abdellatife)
+<div id="header" align="center">
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/ala-eddine-boudemia/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=Ala-Eddine-BOUDEMIA&style=flat-square&color=blue" alt=""/>
+  
+</div>
+
 
 ## I'm a Student and  Developer!!
 
