@@ -32,14 +32,6 @@
 
 <br />
 
----
- ![Abdelaatife's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelaatife&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelaatife&hide=html&layout=compact)](https://github.com/abdelaatife/github-readme-stats)
-
- 
-<!--# Blog posts-->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 
 
 
