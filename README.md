@@ -1,44 +1,29 @@
+<h1 align="center">Hi 👋, I'm Abdellatif</h1>
+<h3 align="center">junior flutter developer</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abdelaatife&label=Profile%20views&color=0e75b6&style=flat" alt="abdelaatife" /> </p>
 
-### Hi there, I'm abdellatif  👋 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelaatife" alt="abdelaatife" /></a> </p>
 
+- 🔭 I’m currently working on [archdni](https://github.com/Archdni)
 
-<div id="header" >
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/abdellatif-ben-kaida-062838224/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=Ala-Eddine-BOUDEMIA&style=flat-square&color=blue" alt=""/>
-  
-</div>
+- 🌱 I’m currently learning **flutter**
 
+- 💬 Ask me about **flutter firebase**
 
-## I'm a Student and  Developer!!
+- 📫 How to reach me **abdoabdo2002104h@gmail.com**
 
+- ⚡ I am **core team member in Google developer students club**
 
-- 🌱 I’m currently learning everything 🤣 
-- 👯 I’m looking to collaborate with other developer
-- 🥅 2022 Goals: learn more about Flutter
-- ⚡  I am core team member in Google developer students club
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ben_abdellatife" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ben_abdellatife" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdellatif-ben-kaida-062838224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdellatif-ben-kaida-062838224/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19063987/abdellatif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19063987/abdellatif" height="30" width="40" /></a>
+<a href="https://instagram.com/ben.kaida/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ben.kaida/" height="30" width="40" /></a>
+</p>
 
-### Connect with me:
-[<img align="left" alt="abdellatif | stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
-[<img align="left" alt="abdellatif | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-[<img align="left" alt="abdellatif | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="abdellatif | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
- 
-
-<br />
-
-
-
-
-
-
-[twitter]: https://twitter.com/ben_Abdellatife
-[instagram]: https://www.instagram.com/ben.kaida/
-[linkedin]:https://www.linkedin.com/in/abdellatif-ben-kaida-062838224
-[stackoverflow]:https://stackoverflow.com/users/19063987/abdellatif
-[#]: #
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelaatife&" alt="abdelaatife" /></p>
