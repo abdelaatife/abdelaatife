@@ -4,7 +4,7 @@
  
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelaatife" alt="abdelaatife" /></a> </p> -->
 
-- 🔭 I’m currently working on [NPAY]([https://github.com/Archdni](https://github.com/pay-Qr))
+- 🔭 I’m currently working on [NPAY](https://github.com/pay-Qr)
 
 - 🌱 I’m currently learning **flutter**
 
