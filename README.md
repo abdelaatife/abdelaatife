@@ -21,9 +21,7 @@ I love turning ideas into smooth cross-platform apps.
 class Abdellatif extends Developer {
   final String role       = 'Flutter Developer';
   final String workingOn  = 'NPAY';
-  final List<String> mobile = ['Dart', 'Flutter', 'Firebase'];
-  final List<String> ml     = ['Python', 'Pandas', 'scikit-learn', 'TensorFlow'];
-  final List<String> web    = ['JavaScript', 'Node.js', 'HTML', 'CSS'];
+  final List<String> stack = ['Flutter', 'Firebase', 'Python', 'Node.js'];
   final String community  = 'Google Developer Student Clubs — Core Team';
   final String askMeAbout = 'Flutter & Firebase';
   final String contact    = 'abdoabdo2002104h@gmail.com';
@@ -35,36 +33,7 @@ class Abdellatif extends Developer {
 
 ## 🛠️ Tech I use
 
-**📱 Mobile**
-
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-**🤖 Machine Learning & Data**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-**🌐 Web**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-**🧰 Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+<img src="https://skillicons.dev/icons?i=dart,flutter,firebase,python,tensorflow,js,nodejs,git" alt="Tech stack" />
 
 ## 📈 My GitHub activity
 
